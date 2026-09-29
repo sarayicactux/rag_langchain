@@ -5,3 +5,8 @@ langchain-text-splitters
 pypdf
 pymupdf
 tqdm
+sentence-transformers
+faiss-cpu
+chromadb
+scikit-learn
+numpy
